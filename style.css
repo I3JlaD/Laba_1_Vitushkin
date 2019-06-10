@@ -1,0 +1,32 @@
+.c1
+{
+    width: 750px;
+    height: 100px;
+    background: blue;
+    margin: 300px;
+    margin-right: 200px;
+}
+.u2
+{
+    width: 100px;
+    height: 180px;
+    background: yellow;
+    margin-top: -585px;
+    margin-left: 300px;
+}
+.d3
+{
+    width: 100px;
+    height: 280px;
+    background: yellow;
+    margin-left: 640px;
+    margin-top: -280px;
+}
+.u4_2
+{
+    width: 100px;
+    height: 280px;
+    background: blue;
+    margin-left: 640px;
+    margin-top: 110px;
+}
